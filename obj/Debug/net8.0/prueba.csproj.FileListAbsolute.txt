@@ -1,0 +1,14 @@
+/Users/alejo/Desktop/prueba/bin/Debug/net8.0/prueba
+/Users/alejo/Desktop/prueba/bin/Debug/net8.0/prueba.deps.json
+/Users/alejo/Desktop/prueba/bin/Debug/net8.0/prueba.runtimeconfig.json
+/Users/alejo/Desktop/prueba/bin/Debug/net8.0/prueba.dll
+/Users/alejo/Desktop/prueba/bin/Debug/net8.0/prueba.pdb
+/Users/alejo/Desktop/prueba/obj/Debug/net8.0/prueba.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alejo/Desktop/prueba/obj/Debug/net8.0/prueba.AssemblyInfoInputs.cache
+/Users/alejo/Desktop/prueba/obj/Debug/net8.0/prueba.AssemblyInfo.cs
+/Users/alejo/Desktop/prueba/obj/Debug/net8.0/prueba.csproj.CoreCompileInputs.cache
+/Users/alejo/Desktop/prueba/obj/Debug/net8.0/prueba.dll
+/Users/alejo/Desktop/prueba/obj/Debug/net8.0/refint/prueba.dll
+/Users/alejo/Desktop/prueba/obj/Debug/net8.0/prueba.pdb
+/Users/alejo/Desktop/prueba/obj/Debug/net8.0/prueba.genruntimeconfig.cache
+/Users/alejo/Desktop/prueba/obj/Debug/net8.0/ref/prueba.dll
